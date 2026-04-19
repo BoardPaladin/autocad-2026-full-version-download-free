@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📐 AutoCAD 2026 Full Version Download pre-activated 📐
+# 📐 AutoCAD 2026 Full Version Download pre-activated 
 
 ![GitHub Release](https://img.shields.io/badge/Release-v26.0_Build_2026-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Full_Access_Unlocked-green?style=for-the-badge)
